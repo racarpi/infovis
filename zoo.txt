@@ -1,2 +1,7 @@
 Stem-and-Leaf Plots
 Q-Q Plots
+Node-link diagrams
+Adjacency Diagrams
+Enclosure Diagrams
+Force-directed Layouts
+Matrix Views
